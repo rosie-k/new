@@ -1,0 +1,6 @@
+{
+  "name": "공유누리 예약 관리 자동화 도구",
+  "description": "공유누리 예약 내역을 자동으로 가공하여 요일별 그리드 형태의 시각적 시간표(Excel)로 변환해 주는 예약 관리 자동화 MVP 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
